@@ -1,0 +1,10 @@
+{
+  "transactions": [
+    {
+      "name": "Julkar Nayeen Sajol",
+      "type": "income",
+      "amount": 15000,
+      "id": 3
+    }
+  ]
+}
