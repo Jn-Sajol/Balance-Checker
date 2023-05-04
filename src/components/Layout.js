@@ -9,7 +9,7 @@ export default function Layout({ children }) {
                 <div className="container">{children}</div>
             </div>
 
-            <div className="footer">&copy;2023 Balance Checker</div>
+            <div className="footer">&copy;2023 Balance Checker Application</div>
         </div>
     );
 }
